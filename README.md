@@ -1,5 +1,6 @@
-<h3 align="left">Hej! My name is Maria</h3>
-<h3 align="left">I am a front end student at Hyper Island Stockholm, currently learning how to be a kickass collaborator and write nice code.</h3>
+<h3 align="left">Hej, my name is Maria!</h3>
+I'm a front end student at Hyper Island Stockholm, 
+where I am on my way to becoming a kickass collaborator and programmer.
 
 - 🌱 I’m currently learning **Javascript and React**
 
