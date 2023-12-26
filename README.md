@@ -1,11 +1,6 @@
-<h3 align="left">Hej, my name is Maria!</h3>
+<h3 align="left">Hi, my name is Maria!</h3>
 
-<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/cute-cat-sleeping-laptop-with-coffee-cartoon-vector-icon-illustration-animal-technology-icon_138676-4475.jpg?w=740&t=st=1703074688~exp=1703075288~hmac=dce6b47a7de6bb1a694d06a4934bf2d280fba0bffff713f5c9221851c7a2ecc4">
-
-
-
-I'm a front end student at Hyper Island Stockholm, <br>
-where I am on my way to becoming a kickass collaborator and programmer.
+I'm a student at Hyper Island Stockholm. <br>
 
 - 🌱 I’m currently learning **Javascript and React**
 
