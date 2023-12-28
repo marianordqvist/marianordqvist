@@ -1,8 +1,11 @@
-<h3 align="left">Hi, my name is Maria!</h3>
+<h3 align="left">Hej! My name is Maria <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 25px> </h3>
 
-I'm a student at Hyper Island Stockholm. <br>
+---
 
-- 🌱 I’m currently learning **Javascript and React**
+- ✨ I'm a front end student at Hyper Island Stockholm. <br>
+
+- 🌱 Currently learning **Javascript and React**
+
 
 **Connect with me:**
 <p align="left">
