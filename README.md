@@ -5,7 +5,7 @@
 
 ✨ I'm a front end student at Hyper Island Stockholm. <br>
 
-🌱 Right now I'm learning **Node.js**
+🌱 Right now I'm learning **typescript**
 
 <br>
 
