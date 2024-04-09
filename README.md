@@ -3,9 +3,7 @@
 ##
 
 
-✨ I'm a front end student at Hyper Island Stockholm. <br>
-
-🌱 Right now I'm learning **typescript**
+🌱 I'm a front end student at Hyper Island Stockholm. <br>
 
 <br>
 
