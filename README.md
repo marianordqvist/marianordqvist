@@ -3,7 +3,7 @@
 ##
 
 
-🌱 I'm a front end student at Hyper Island Stockholm. <br>
+🌱 I'm a frontend student at Hyper Island Stockholm. <br>
 
 <br>
 
